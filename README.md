@@ -5,7 +5,7 @@ Room link :: https://tryhackme.com/room/neighbour
 
 # Exploitation
 
-1. First, We go to the login page by visiting the <IP>
+1. First, We go to the login page by visiting the < IP >
 
 <img width="956" alt="Screenshot 2022-11-27 105712" src="https://user-images.githubusercontent.com/109613277/204120746-cef1c36e-7e34-4732-a238-b97c55da8c87.png">
 
