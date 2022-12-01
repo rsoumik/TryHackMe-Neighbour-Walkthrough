@@ -1,6 +1,8 @@
 # TryHackMe-Neighbour-Walkthrough
 A CTF dealing with IDOR |
 
+This challenge is of easy difficulty if you have the right basic knowledge .
+
 Room link :: https://tryhackme.com/room/neighbour
 
 # Exploitation
